@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.38.209:8081/repository/sravan_dev/</url>
+	      <url>http://35.154.17.0:8081/repository/sravs/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.38.209:8081/repository/sravan_snapshot/</url>
+	      <url>http://35.154.17.0:8081/repository/sravs_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
