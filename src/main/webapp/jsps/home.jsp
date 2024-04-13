@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to darling sravs Ltd. Ph No: +91-6281141818, +91-9177154501 ,chittoor,andrapradesh,India</h1>
+<h1 align="center">Welcome to darling sravs Ltd. Ph No: +91-6281141818, +91-9177154501 ,chittor,andrapradesh,India</h1>
 <h1 align="center"> sravanyadav - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
